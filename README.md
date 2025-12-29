@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Himanshu Dubey
-- 🌱 I’m currently learning frontend web devlopment ...
-- 💞️ I’m looking to collaborate on ...
+# Hey I’m Himanshu 
+I write code and build interfaces users actually enjoy.
 
 # 💻 Tech Stack:
 
