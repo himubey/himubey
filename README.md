@@ -1,4 +1,4 @@
-![me](https://res.cloudinary.com/dyktprses/image/upload/v1771006714/yohxkvhtsimz5839huic.gif)
+![me](/himubey.dev.gif)
 
 
 <div align="center">
