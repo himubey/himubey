@@ -58,7 +58,6 @@ I write code and build interfaces users actually enjoy.
     <li>Traveling & exploring new places ✈️</li>
     <li>Storytelling & content creation 📖</li>
     <li>Making videos & editing 🎥</li>
-    <li>Strumming the guitar 🎸</li>
   </ul>
 </section>
 
