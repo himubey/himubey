@@ -41,7 +41,7 @@ I write code and build interfaces users actually enjoy.
   <h2 id="activities-title">What am I up to?</h2>
   <ul>
     <li>
-      Deep diving into <b>Backend Engineering</b> (Node.js, Go, or Python) to build scalable systems.
+      Deep diving into <b>Backend Engineering</b> (Node.js, Go, Rust or Python) to build scalable systems.
     </li>
     <li>
       Architecting <b>cool side projects</b> focused on solving real-world problems.
